@@ -1,4 +1,4 @@
-# 🐍 Bootcamp Suzado - Python Developer
+# 🐍 Bootcamp Suzano - Python Developer
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Status](https://img.shields.io/badge/Progresso-Inicializando-yellow)
