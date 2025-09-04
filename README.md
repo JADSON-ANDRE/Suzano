@@ -1,54 +1,36 @@
-# 🐍 Bootcamp Suzano - Python Developer
+# 🐍🚀 Bootcamp Suzano - Python Developer
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Status](https://img.shields.io/badge/Progresso-Inicializando-yellow)
+![Status](https://img.shields.io/badge/Progresso-Em%20andamento-blue)
 ![Local](https://img.shields.io/badge/Local-Salvador%2C%20BA-brightgreen)
 
 Este repositório reúne os projetos desenvolvidos durante minha participação no **Bootcamp Suzano**.
 
----
-
-## 📑 Índice
-
-- [Sobre o Bootcamp](#sobre-o-bootcamp)
-- [Projetos Desenvolvidos](#projetos-desenvolvidos)
-- [Atualizações Futuras](#atualizações-futuras)
-- [Autor](#autor)
-
----
-
-## 📘 Sobre o Bootcamp
-
-O Bootcamp Python da Suzado é uma jornada de aprendizado voltada para desenvolvedores iniciantes e intermediários que desejam se aprofundar na linguagem Python. A proposta é aprender fazendo, com projetos práticos que simulam situações reais do mercado de tecnologia.
-
----
-
-## 🧪 Projetos Desenvolvidos
+## 📁 Projetos
 
 ### 1. Sistema Bancário
 
-> **Descrição:**
+> **Descrição:**  
 Neste projeto, você terá a oportunidade de criar um Sistema Bancário em Python. O objetivo é implementar três operações essenciais: depósito, saque e extrato. O sistema será desenvolvido para um banco que busca monetizar suas operações. Durante o desafio, você terá a chance de aplicar seus conhecimentos em programação Python e criar um sistema funcional que simule as operações bancárias. Prepare-se para aprimorar suas habilidades e demonstrar sua capacidade de desenvolver soluções práticas e eficientes.
 
-> **Status:** ✅ Concluído  
-> **Tecnologias:** Python 3  
-> **Conceitos aplicados:** Funções, tipos primitivos, estruturas condicionais, laço `while`, formatação de strings.
+> **Conceitos aplicados:**  
+Funções com retorno, tipos primitivos, estruturas condicionais, laço `while`, manipulação de strings.
 
-📁 Diretório: `sistema_bancario_terminal/`
+> **Status:** ✅ Concluído
 
 ---
 
-## 🔄 Atualizações Futuras
+## 🔄 Atualizações
 
-Este repositório será atualizado conforme novos projetos forem desenvolvidos ao longo do Bootcamp. Cada projeto terá sua própria pasta com código-fonte, documentação e anotações de aprendizado.
+Este repositório será atualizado conforme novos projetos forem propostos e desenvolvidos ao longo do Bootcamp. Fique à vontade para acompanhar minha evolução!
 
 ---
 
 ## 👨‍💻 Autor
 
-**Jadson André**  
-Participante do Bootcamp Python - Suzado  
+**Jadson André P Silva**  
+Analista de Sistemas  
+Graduado em Ciência da Computação (UESC)  
 📍 Salvador, Bahia 🇧🇷
----
 
-> *Este repositório é parte da minha jornada de aprendizado. Sinta-se à vontade para explorar, contribuir ou acompanhar meu progresso!*
+---
